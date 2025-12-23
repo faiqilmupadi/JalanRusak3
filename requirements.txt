@@ -5,3 +5,4 @@ streamlit-webrtc
 aiortc
 Pillow
 numpy
+lapx
